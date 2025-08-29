@@ -1,0 +1,1 @@
+console.log('Gold Magic7 script loaded');
