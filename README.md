@@ -1,0 +1,1 @@
+# GoldMagic7.com
